@@ -1,5 +1,5 @@
 ## [`Project Telas`](http://lxrbckl.com/Project-Telas)
-> Keep your portfolio up to date with scheduled updates.
+> Keep your website in an active state with scheduled calls.
 
 ### `Installation`
 ```
