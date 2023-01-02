@@ -5,6 +5,4 @@
 ```
 git clone https://github.com/lxRbckl/Project-Telas.git
 cd Project-Telas
-
-pip3 install -r requirements.txt
 ```
